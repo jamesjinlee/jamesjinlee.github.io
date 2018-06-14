@@ -1,0 +1,37 @@
+<!-- Button for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <!-- Name -->
+  <nav style="border-color: #202020" class="sidebar-nav">
+    <a class="sidebar-nav-item-header" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+  </nav>
+  <!-- Description -->
+  <div style="padding-top: .65rem !important" class="sidebar-item">
+    <p>NASA Fellow, STEM Mentor and Computer Science Student. UH Manoa '18. Formerly interned at IBM and Oceanit in Software Development.</p>
+  </div>
+  <!-- Divider color -->
+  <nav style="border-color: #18bc9c" class="sidebar-nav"></nav>
+  <!-- Page links -->
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/"><i class="home icon"></i>Home</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/about/"><i class="user icon"></i>About</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/projects/"><i class="grid layout icon"></i>Projects</a>
+    <a class="sidebar-nav-item" href="{{ site.baseurl }}/resume"><i class="certificate icon"></i>Resume</a>
+  </nav>
+  <!-- Divider color -->
+  <nav style="border-color: #18bc9c" class="sidebar-nav"></nav>
+  <!-- External links -->
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="{{ site.github }}"><i class="github icon"></i>Github</a>
+    <a class="sidebar-nav-item" href="{{ site.linkedin }}"><i class="linkedin icon"></i>Linkedin</a>
+    <a class="sidebar-nav-item" href="{{ site.mail }}"><i class="mail icon"></i>Email</a>
+  </nav>
+  <div class="sidebar-item">
+    <p>
+      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+    </p>
+  </div>
+</div>

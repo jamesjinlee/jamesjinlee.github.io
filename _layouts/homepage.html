@@ -1,0 +1,68 @@
+<!DOCTYPE HTML>
+<html lang="{{ page.lang | default: site.lang | default: en }}">
+
+{% include head.html %}
+
+<body>
+{% include sidebar.html %}
+{% include header.html %}
+
+<!-- Wrap is the content to shift when toggling the sidebar. We content-cover the
+     content to avoid any CSS collisions with our real content. -->
+<div class="content-cover">
+  <div id="container-background">
+    <canvas id="pixie"></canvas>
+
+    <div class="wrapper">
+      <div class="ui middle aligned centered grid text container home-page-header">
+        <h1 style="font-family: Ubuntu !important;" class="ui main header homepage">{{site.title}}</h1>
+        <p style="margin-top:0px;font-family: Ubuntu !important;" id="second-header">"Innovate. Create value. Do more with less."&nbsp;•&nbsp;
+          Honolulu, Hawaii</p>
+        <div style="margin-top: 20px" id="navigation-links">
+          <a style="margin-right:7.5px" href="{{ site.github }}" target="_blank"><i
+              class="circular github icon homepage"></i></a>
+          <a style="margin-right:7.5px; margin-left: 7.5px" href="{{ site.linkedin }}"
+             target="_blank"><i class="circular linkedin icon homepage"></i></a>
+          <a style="margin-right:7.5px; margin-left: 7.5px" href="{{ site.projects }}"><i
+              class="circular suitcase icon homepage"></i></a>
+          <a style="margin-left: 7.5px" href="{{ site.mail }}" target="_blank"><i
+              class="circular mail outline icon homepage"></i></a>
+        </div>
+      </div>
+    </div>
+    <div id="mountains"></div>
+    <div id="grass"></div>
+  </div>
+</div>
+<label for="sidebar-checkbox" class="sidebar-toggle"></label>
+<script src="../js/sidebar/sidebar.js"></script> <!-- Sidebar -->
+</body>
+<script>
+  $('.ui.main.header.homepage')
+      .transition('hide')
+      .transition('fade up', '3000ms')
+  ;
+  $('#second-header')
+      .transition('hide')
+      .transition('fade up', '3000ms')
+  ;
+  $('.circular.github.icon')
+      .transition('hide')
+      .transition('fade up', '2000ms')
+  ;
+  $('.circular.linkedin.icon')
+      .transition('hide')
+      .transition('fade up', '2000ms')
+  ;
+  $('.circular.suitcase.icon')
+      .transition('hide')
+      .transition('fade up', '2000ms')
+  ;
+  $('.circular.mail.outline.icon')
+      .transition('hide')
+      .transition('fade up', '2000ms')
+  ;
+</script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script type="text/javascript" src="../js/homepage/homepage.js"></script>
+</html>

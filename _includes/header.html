@@ -1,0 +1,30 @@
+<!-- If on landing page, match color to background -->
+{% if page.url == "/" %}
+<landing-navbar style="background-color: #060b31" class="navbar-slider">
+  <div style="background-color: #060b31" class="ui fluid borderless inverted container menu">
+    {% assign default_paths = site.pages | map: "path" %}
+    {% assign page_paths = site.header_pages | default: default_paths %}
+    <!-- To get name for home button: {{ site.title | escape }} -->
+    <a class="ui centered header item" href="{{ "/" | relative_url }}"><i class="home icon"></i></a>
+    <div class="right aligned item">
+      {% for item in site.data.menu %}
+      <a class="aligned item" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+      {% endfor %}
+    </div>
+  </div>
+</landing-navbar>
+<!-- If on any other page -->
+{% else %}
+<landing-navbar class="navbar-slider">
+  <div class="ui fluid borderless inverted container menu">
+    {% assign default_paths = site.pages | map: "path" %}
+    {% assign page_paths = site.header_pages | default: default_paths %}
+    <a class="ui centered header item" href="{{ "/" | relative_url }}"><img class="ui avatar image" src="/images/h.png">{{ site.title | escape }}</a>
+    <div class="right aligned item">
+      {% for item in site.data.menu %}
+      <a class="aligned item" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+      {% endfor %}
+    </div>
+  </div>
+</landing-navbar>
+{% endif %}

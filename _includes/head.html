@@ -1,0 +1,67 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+
+  {% if page.description %}
+  <meta name="description" content="{{ page.excerpt | default: page.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  {% else %}
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  {% endif %}
+
+  {% if page.keywords %}
+  <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}"/>
+  {% endif %}
+
+  {% if page.summary %}
+  <meta name="description" content="{{ page.excerpt | default: page.summary | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  {% endif %}
+
+  <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+
+  <link rel="icon" sizes="16x16 32x32" href="/images/nathan-logo.png">
+
+  <!-- Semantic UI -->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+
+  <!-- Page color syntax (load before semantic items) -->
+  {% if page.url != "/" %}
+  <script type="text/javascript" src="../js/current-color-syntax/current-color-syntax.js"></script>
+  {% endif %}
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.css">
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.js"></script>
+
+  <!-- Personal stylesheet -->
+  <link rel="stylesheet" href="../css/style.css">
+
+  <!-- Header navbar scripts -->
+  <script type="text/javascript" src="../js/navbar-slider/navbar-slider.js"></script>
+
+  <!-- Stylesheet for homepage -->
+  {% if page.url == "/" %}
+  <link rel="stylesheet" href="../css/homepage/homepage.css">
+  {% endif %}
+
+  <!-- Image-zoom -->
+  <link href="../css/image-zoom/zoom.css" rel="stylesheet">
+  <script src="../js/image-zoom/zoom.js"></script>
+  <script src="../js/image-zoom/transition.js"></script>
+
+  <!-- Stylesheet for back-to-top scroller -->
+  <link rel="stylesheet" href="../css/back-to-top/back-to-top.css">
+
+  <!-- Sidebar -->
+  <link rel="stylesheet" href="../css/sidebar/sidebar.css">
+
+  {% seo %}
+
+  <!-- Google Analytics -->
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
+</head>

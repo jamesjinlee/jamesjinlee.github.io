@@ -1,0 +1,57 @@
+<!DOCTYPE HTML>
+<html lang="{{ page.lang | default: site.lang | default: en }}">
+
+{% include head.html %}
+
+<body>
+{% include sidebar.html %}
+{% include header.html %}
+<!-- Wrap is the content to shift when toggling the sidebar. We content-cover the
+     content to avoid any CSS collisions with our real content. -->
+<div class="content-cover">
+  <canvas id='c'></canvas>
+  <div class="wrapper">
+    <div class="ui left aligned text container missingpage">
+      <div class="ui middle aligned centered grid text container invader">
+        <img class="ui center aligned image invader" src="../images/404/invader.gif">
+      </div>
+      <div class="ui middle aligned centered grid text container four-o-four">
+        <img class="ui center aligned image four-o-four" src="../images/404/404-image.png">
+      </div>
+      <!-- Modify this for mobile -->
+      <h3 class="header-missingpage top">Oops! We can't seem to find the page you're looking for. Here are some helpful links instead. Perhaps you were looking for one of the following: </h3>
+      <ul>
+        {% for item in site.data.menu %}
+        <li><a class="missingpage-link" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a></li>
+        {% endfor %}
+      </ul>
+
+      <!-- Add to list each page in category
+      <h3 class="header-missingpage">Projects</h3>
+      <ul>
+        {% assign project_pages = site.pages | where: "type", "project" | sort: "title" %}
+        {% for page in project_pages %}
+        <li><a class="missingpage-link" href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+        {% endfor %}
+      </ul>
+
+      <h3 class="header-missingpage">Blog</h3>
+      <ul>
+        {% assign blog_pages = site.pages | where: "type", "blog" | sort: "date" | reverse %}
+        {% for page in blog_pages %}
+        <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+        {% endfor %}
+      </ul>
+      -->
+    </div>
+  </div>
+</div>
+<label for="sidebar-checkbox" class="sidebar-toggle"></label>
+<script src="../js/sidebar/sidebar.js"></script> <!-- Sidebar -->
+</body>
+<!-- magnetic particles canvas -->
+<link rel="stylesheet" href="../css/404/magnetic-particles.css">
+<script type="text/javascript" src="../js/404/magnetic-particles.js"></script>
+</html>
+
+

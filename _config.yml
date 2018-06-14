@@ -1,0 +1,57 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Christopher Nguyen
+email: cnguyen7@hawaii.edu
+description: > # this means to ignore newlines until "baseurl:"
+  Christopher Nguyen. UH Manoa '18. NASA Space Grant Fellow. Former Software Developer Intern at IBM and Oceanit. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://chrisnguyenhi.github.io" 
+github_username: chrisnguyenhi
+git_repo: chrisnguyenhi
+github: https://github.com/chrisnguyenhi
+linkedin: https://linkedin.com/in/chrisnguyenhi
+projects: /projects
+mail: mailto:cnguyen7@hawaii.edu
+
+include: [_data]
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+    input: GFM
+    hard_wrap: false
+
+theme: minima 
+gems:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-avatar
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+
+social:
+  name: Christopher Nguyen
+  links:
+    - https://github.com/chrisnguyenhi
+
+logo: /images/h.png
+google_analytics: UA-70118632-2

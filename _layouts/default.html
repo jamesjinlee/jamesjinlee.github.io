@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: en }}">
+{% include head.html %}
+<body>
+{% include sidebar.html %}
+{% include header.html %}
+<div class="sidebar-topnav-mobile default"></div>
+<!-- content-cover is the content to shift when toggling the sidebar. We content-cover the
+ content to avoid any CSS collisions with our real content. -->
+<div class="content-cover">
+  <!-- Mini header on all pages, uncomment to add
+  <div class="masthead">
+    <div class="container-sidebar">
+      <h3 class="masthead-title">
+        <p>Main header</p>
+        <small>subheader</small>
+      </h3>
+    </div>
+  </div>
+  -->
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      <!-- Controls back-to-top, encase content -->
+      <div style="margin-top:17.5px" class="cd-container">
+        {{ content }}
+      </div>
+      <!-- End -->
+    </div>
+  </main>
+  {% include footer.html %}
+</div>
+<!-- Controls back-to-top -->
+<a href="#0" class="cd-top">Top</a>
+<!-- End -->
+<label for="sidebar-checkbox" class="sidebar-toggle"></label>
+<script src="../js/back-to-top/main.js"></script> <!-- Gem jQuery -->
+<script src="../js/sidebar/sidebar.js"></script> <!-- Sidebar -->
+</body>
+</html>
+<!-- Ensure page refreshes to top of page -->
+<script>
+  window.onbeforeunload = function () {
+    window.scrollTo(0, 0);
+  }
+</script>

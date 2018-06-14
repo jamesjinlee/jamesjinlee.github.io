@@ -1,0 +1,220 @@
+{
+  "basics": {
+    "name": "Christopher Nguyen",
+    "label": "Student",
+    "picture": "https://chrisnguyenhi.github.io/images/h.png",
+    "email": "cnguyen7@hawaii.edu",
+    "phone": "808-343-7029",
+    "website": "https://chrisnguyenhi.github.io",
+    "summary": "Senior at the University of Hawaii at Manoa majoring in Computer Science with a minor in Business. Space Grant Fellow courtesy of NASA. Previously interned at IBM and Oceanit.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "chrisnguyenhi",
+        "url": "http://github.com/chrisnguyenhi"
+      },
+      {
+        "network": "linkedin",
+        "username": "chrisnguyenhi",
+        "url": "http://linkedin.com/in/chrisnguyenhi"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Software Development, Program Management, and Education",
+      "keywords": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "JavaScript",
+        "Java",
+        "C++",
+        "HTML",
+        "CSS",
+        "PHP",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Toolsets",
+      "level": "",
+      "keywords": [
+        "Node.js",
+        "Ionic",
+        "Cordova",
+        "MySQL",
+        "Git",
+        "TCP/IP",
+        "Raspberry Pi"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science (Expected Graduation: Spring, 2018)",
+      "studyType": "Undergraduate",
+      "startDate": "2014-09-01",
+      "endDate": "Present",
+      "gpa": "3.8",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+  	{
+      "company": "NASA",
+      "position": "Space Grant Fellow",
+      "website": "http://www.spacegrant.hawaii.edu",
+      "startDate": "2017-08-22",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Building a cloud service infrastructure for scientists to host and query temperature data from the NASA Reconnaissance Orbiter top map potential ice deposits on the Moon",
+        "Reduced the runtime of I/O operations by 85% (6300 hours per year of data) using Pandas and Amazon EC2."
+      ]
+    },
+    {
+      "company": "IBM",
+      "position": "Software Developer Intern",
+      "website": "https://www.ibm.com",
+      "startDate": "2017-06-05",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Automated the detection, sandbox, and build processes for 3rd party dependency updates in Watson Data Platform services.",
+        "Followed the Visitor design pattern to develop RESTful Node.js and Express APIs to handle dependency version checks and documented them with Swagger.",
+        "Led a team of 4 through sprint plannings and daily standups as scrum master.",
+        "Architected a blockchain solution for ticket sales at the BlueHack hackathon."
+      ]
+    },
+    {
+      "company": "Oceanit",
+      "position": "Network Security Intern",
+      "website": "http://www.oceanit.com",
+      "startDate": "2016-11-01",
+      "endDate": "2017-05-19",
+      "summary": "",
+      "highlights": [
+        "Built a 72” video wall system using open-source software, IP routing, and seven Raspberry Pis.",
+        "Tested PySide2, an open-source	Python	binding	of	Qt,	on	the	MinGW development	environment for	a	Windows	CV	application.",
+        "Conducted high-level network assessments for external clients and state agencies."
+      ]
+    },
+    {
+      "company": "Ditto",
+      "position": "Software Development Intern",
+      "website": "http://bluestartups.com/cohort-6",
+      "startDate": "2015-10-30",
+      "endDate": "2016-02-15",
+      "summary": "",
+      "highlights": [
+        "Built a 72” video wall system using open-source software, IP routing, and seven Raspberry Pis.",
+         "Conducted initial feasibly tests and prototyping which led to a 97% cost reduction ($58,000 in savings).",
+"Reduced electricity costs by 40% by configuring a smart socket system to monitor and control the video wall’s energy consumption."
+      ]
+    },
+     {
+      "company": "Oceanit",
+      "position": "Software Developer Intern",
+      "website": "http://www.oceanit.com",
+      "startDate": "2015-06-02",
+      "endDate": "2015-07-28",
+      "summary": "",
+      "highlights": [
+        "Refactored a mobile geographic information system (GIS) app to include a parcel data extraction feature using the ArcGIS API.",
+        "Developed a cross-platform Customer Relationship Management (CRM) app for iOS and Android using Cordova, Node.js, and Design Thinking to increase consultant and client interaction by 10%."
+      ]
+    },
+     {
+      "company": "Hawaii Department of Education",
+      "position": "STEM Mentor",
+      "website": "http://www.hawaiipublicschools.org",
+      "startDate": "2014-09-16",
+      "endDate": "Present",
+      "summary": "Computer Science and STEM Mentor under Bebi Davis, PhD of the Kaimuki-McKinley-Roosevelt Complex Area",
+      "highlights": [
+        "Collaborated with 28 schools to develop a 21st-century STEM curriculum which sparked a 48% STEM interest among Hawaii high school students.",
+        "Mentored students that totaled $15,000+ in agency awards at the Honolulu District, Hawaii State, and Intel International Science and Engineering Fair.",
+        "Connected high school students with external mentors at the John A. Burns School of Medicine for research-based internships."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Cross-Cultural Solutions",
+      "website": "https://www.crossculturalsolutions.org",
+      "position": "International Volunteer",
+      "startDate": "2016-01-01",
+      "endDate": "2016-01-09",
+      "summary": "",
+      "highlights": [
+        "Taught English to Kindergarteners and painted an entire school in Tecpan, Guatemala courtesy of the Hamilton Award Scholarship (2013).",
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "Clubs and Societies",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Vice President, Vietnamese Student Organization at UH Manoa (VSOUH), 2016-Present",
+        "Member, Hawaii Undergraduate Initiative (HUI), 2015-Present",
+        "Member, IEEE Student Branch, 2015-2016",
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Computer Science Award",
+      "date": "2014",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded at the 2014 Hawaii State Science and Engineering Fair for my project, PIPE. See my portfolio site for more details."
+    },
+    {
+      "title": "Best in Computer Science",
+      "date": "2014",
+      "awarder": "Hawaii Department of Education",
+      "summary": "Awarded at the 2014 Honolulu District Science and Engineering Fair for my project, PIPE. See my portfolio site for more details."
+    },
+    {
+      "title": "Joanna L. Sullivan Scholarship",
+      "date": "2014",
+      "awarder": "Hawaii Rotary Youth Foundation",
+      "summary": "Scholarship award given to 1 Hawaii student attending the University of Hawaii at Manoa http://www.hawaiirotaryyouthfoundation.org/currentrecipients"
+    },
+    {
+      "title": "STEM Award",
+      "date": "2014",
+      "awarder": "Pearl Harbor Naval Shipyard and Maintenance Facility",
+      "summary": "Scholarship award funded by the National Defense Education Program for academic achievement, participation in FIRST robotics, and dedication to STEM"
+    },
+    {
+      "title": "Dean's List",
+      "date": "2014-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Academic honor given to students with a 3.5 GPA or above. Semesters Received: Fall 2014, Spring 2015, Fall 2015, Spring 2016, Fall 2016"
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}

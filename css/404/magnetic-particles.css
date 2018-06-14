@@ -1,0 +1,54 @@
+body {
+  background: -o-linear-gradient(#011f23);
+  background: -ms-linear-gradient(#011f23);
+  background: -moz-linear-gradient(#011f23);
+  background: -webkit-linear-gradient(#011f23);
+  margin-top: 0px;
+}
+
+canvas {
+  position: absolute;
+}
+
+.ui.left.aligned.text.container.missingpage {
+  width: 100%;
+  position: absolute;
+  height: 100%;
+}
+
+/* IF ON MOBILE DONT TOUCH THIS */
+.ui.center.aligned.image.invader {
+  height:45%;
+  width:45%;
+  margin-top:8rem;
+}
+
+/* IF ON MOBILE DONT TOUCH THIS */
+.ui.center.aligned.image.four-o-four {
+  height:30%;
+  width:30%;
+  margin-top:1rem;
+  margin-bottom:30px;
+}
+
+@media (max-width: 640px) {
+  .header-missingpage.top {
+    font-size: 1.2rem;
+  }
+}
+
+.wrapper .ui.left.aligned.text.container.missingpage .header-missingpage {
+  color: #fff;
+}
+
+.wrapper .ui.left.aligned.text.container.missingpage ul {
+  color: #2d5b89;
+}
+
+.wrapper .ui.left.aligned.text.container.missingpage li a {
+  color: #4183C4;
+}
+
+.wrapper .ui.left.aligned.text.container.missingpage li a:hover {
+  color: #c6d9ed;
+}
