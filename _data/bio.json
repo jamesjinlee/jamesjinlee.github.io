@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Christopher Nguyen",
+    "name": "James Lee",
     "label": "Student",
     "picture": "https://chrisnguyenhi.github.io/images/h.png",
-    "email": "cnguyen7@hawaii.edu",
-    "phone": "808-343-7029",
-    "website": "https://chrisnguyenhi.github.io",
+    "email": "james.j.lee.20@dartmouth.edu",
+    "phone": "808-342-0274",
+    "website": "https://jamesjinlee.github.io",
     "summary": "Senior at the University of Hawaii at Manoa majoring in Computer Science with a minor in Business. Space Grant Fellow courtesy of NASA. Previously interned at IBM and Oceanit.",
     "location": {
       "address": "",
@@ -17,19 +17,19 @@
     "profiles": [
       {
         "network": "github",
-        "username": "chrisnguyenhi",
-        "url": "http://github.com/chrisnguyenhi"
+        "username": "jamesjinlee",
+        "url": "http://github.com/jamesjinlee"
       },
       {
         "network": "linkedin",
         "username": "chrisnguyenhi",
-        "url": "http://linkedin.com/in/chrisnguyenhi"
+        "url": "http://linkedin.com/in/jamesjinlee"
       }
     ]
   },
   "interests": [
     {
-      "name": "Software Development, Program Management, and Education",
+      "name": "Software Development, UI/UX, and Graphic Design",
       "keywords": [
       ]
     }
