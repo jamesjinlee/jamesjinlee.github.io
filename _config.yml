@@ -14,17 +14,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: James Lee
-email: cnguyen7@hawaii.edu
+email: james.j.lee.20@dartmouth.edu
 description: > # this means to ignore newlines until "baseurl:"
   Christopher Nguyen. UH Manoa '18. NASA Space Grant Fellow. Former Software Developer Intern at IBM and Oceanit.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://chrisnguyenhi.github.io"
-github_username: chrisnguyenhi
-git_repo: chrisnguyenhi
-github: https://github.com/chrisnguyenhi
-linkedin: https://linkedin.com/in/chrisnguyenhi
+url: "https://jamesjinlee.github.io"
+github_username: jamesjinlee
+git_repo: jamesjinlee
+github: https://github.com/jamesjinlee
+linkedin: https://linkedin.com/in/jamesjinlee
 projects: /projects
-mail: mailto:cnguyen7@hawaii.edu
+mail: mailto:james.j.lee.20@dartmouth.edu
 
 include: [_data]
 
@@ -49,9 +49,9 @@ exclude:
 
 
 social:
-  name: Christopher Nguyen
+  name: James Lee
   links:
-    - https://github.com/chrisnguyenhi
+    - https://github.com/jamesjinlee
 
 logo: /images/h.png
 google_analytics: UA-70118632-2

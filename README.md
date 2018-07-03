@@ -1,4 +1,3 @@
-# chrisnguyenhi.github.io
+# jamesjinlee.github.io
 
-Christopher Nguyen's technical portfolio site.
-
+James Lee's technical portfolio site.
