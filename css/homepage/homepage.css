@@ -37,7 +37,7 @@ body {
 #mountains, #grass {
   width:100%;
   position:absolute;
-  bottom:0;
+  bottom:100px;
 }
 
 .ui.middle.aligned.centered.grid.text.container.home-page-header {
