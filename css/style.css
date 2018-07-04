@@ -533,15 +533,6 @@ i.circular.icon {
   background-color: #67EAF2;
 }
 
-.flex-grid{
-  display: flex;
-}
-.project {
-  width: 200px;
-  background-color: rgb(100, 100, 100);
-  flex:1;
-}
-
 
 /* .ui.cards > .card > .content > .header:not(.ui) {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;
