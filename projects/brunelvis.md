@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:
+image: images/cyan.png
 title: Love Milk Tea
 permalink: projects/lovemilktea
 date: 2017

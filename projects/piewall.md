@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/cyan.png
 title: Piewall
 permalink: projects/piewall
 date: 2016

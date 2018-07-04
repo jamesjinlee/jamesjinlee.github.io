@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/cyan.png
 title: Point-It!
 permalink: projects/point-it
 date: 2015

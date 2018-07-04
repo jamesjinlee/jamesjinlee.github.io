@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:
+image: images/cyan.png
 title: Jason vs Dylan
 permalink: projects/jasonvsdylan
 date: 2014

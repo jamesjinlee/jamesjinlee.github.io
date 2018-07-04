@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: images/cyan.png
 title: PIPE
 permalink: projects/pipe
 date: 2013
