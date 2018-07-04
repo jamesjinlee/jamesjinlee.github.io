@@ -533,7 +533,7 @@ i.circular.icon {
   background-color: #67EAF2;
 }
 
-.blurring.dimmable.image > .content {
+.blurring.dimmable.image > .content > .header {
   font-size: 50px;
   color: rgb(200, 0, 0);
 }
