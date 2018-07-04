@@ -2,7 +2,8 @@
 <a style="min-width:20px;" class="card"
    href="{% if page.projecturl %}{{ page.projecturl }}{% else %}{{ site.baseurl}}{{ include.page.url }}{% endif %}">
   {% if include.page.image %}
-  <div class="dimmable image">
+  <div class="dimmer image">
+    <img src="{{ site.baseurl }}/{{ include.page.image }}">
     <div class="ui inverted header">
       <div class="content">
         <div class="center">
@@ -12,7 +13,6 @@
         </div>
       </div>
     </div>
-    <img src="{{ site.baseurl }}/{{ include.page.image }}">
   </div>
   {% endif %}
   <!-- <div class="content">
