@@ -5,12 +5,6 @@ image: images/airisdot.png
 title: D-Path
 permalink: projects/airis
 date: 2018
-labels:
-  - Android App Development
-  - Java
-  - Android Studio
-  - Photoshop/Illustrator/Sketch
-summary: App
 ---
 <img class class="ui medium right floated rounded image" src="../images/airisdot.png">
 
