@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/airisdot.png
-title: D-Path
+title: D-PatH
 permalink: projects/airis
 date: 2018
 ---
