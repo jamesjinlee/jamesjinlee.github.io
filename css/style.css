@@ -533,8 +533,8 @@ i.circular.icon {
   background-color: #67EAF2;
 }
 
-.ui.dimmer {
-  opacity: 0.3;
+.dimmer {
+  background-color: rgb(150, 150, 150);
 }
 
 
