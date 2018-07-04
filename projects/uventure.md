@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/uventure.png
+image: 
 title: uVenture
 permalink: projects/uventure
 date: 2017
@@ -21,14 +21,14 @@ I also created the backend data for the Calendar page which populates the Calend
 
 <img src="/images/mongodb.png" width="600" height="200" class="ui huge floated rounded image">
 
-I managed the MongoDB database hosted on [mLabs](https://mlab.com/home), a cloud-based MongoDB service which is currently free for me. 
+I managed the MongoDB database hosted on [mLabs](https://mlab.com/home), a cloud-based MongoDB service which is currently free for me.
 
 I also played a role as the Project Manager of the team by organizing weekly meetings to ensure that everyone was on the same page and seeing the same vision for the uVenture application.
 The project management methodology this project followed was the [Issue Driven Project Management (IDPM) methodology](http://courses.ics.hawaii.edu/ReviewICS314/morea/project-management/reading-project-management-guidelines.html).
 IDPM prioritizes development in "sprints" called Milestones. With each Milestone, the project would progressively improve and have enhanced functionality.
 This methodology was created by [Dr. Philip Johnson](philipmjohnson.org) at the University of Hawaii at Manoa.
 
-For uVenture, I implemented the Adventure Collection which became part of the Add Adventure page. The Add Adventure page allows uVenture users to add an adventure they plan to the uVenture database. 
+For uVenture, I implemented the Adventure Collection which became part of the Add Adventure page. The Add Adventure page allows uVenture users to add an adventure they plan to the uVenture database.
 
 This Add Adventure page uses an [unofficial Meteor Google Maps API package](https://atmospherejs.com/dburles/google-maps) to generate a Google Maps view on the Add Adventure form.
 <img src="/images/add.png" width="700" height="400" class="ui huge floated rounded image">
@@ -43,9 +43,9 @@ Any existing Adventure data can also be edited after hitting the "Edit" button i
 Along with the Adventure Seed, I created an Event Data Seed which populates the existing Calendar Page with special dates based on the UH system academic calendar.
 <img src="/images/calendar.png" width="700" height="400" class="ui huge floated rounded image">
 
-From this project, I learned how to work with students of different skill levels and organize them into roles that fit the best of their abilities. 
+From this project, I learned how to work with students of different skill levels and organize them into roles that fit the best of their abilities.
 Since I was the only one with any professional software development experience in the team, I was able to combined what I learned from my past internships and my Software Engineering class to manage my team.
-This project also gave me heavy exposure to working with others on Github through the IDPM set by Professor Johnson. 
+This project also gave me heavy exposure to working with others on Github through the IDPM set by Professor Johnson.
 
 Although I do not see myself using Meteor in the future, my backend experience with MongoDB in this project has given me the confidence to be able to work on a variety of different platforms while still using a NoSQL database.
 

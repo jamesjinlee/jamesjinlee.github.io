@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/lmt.png
+image:
 title: Love Milk Tea
 permalink: projects/lovemilktea
 date: 2017
@@ -24,19 +24,19 @@ After the HACC, my team and I continued to develop this application to add more 
 
 
 <iframe width="620" height="480" src="https://www.youtube.com/embed/wLuSS2579hc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
- 
 
-On the Software Developer side, I worked on creating the filtering functionality for the LoveMilkTea application for users to filter through point type such as "Food" and "Entertainment." The points from the filtering function were extracted from [Firebase Realtime Database](https://firebase.google.com/) based the filter criteria. I also assisted in the data preparation process and did research to catagorize which each point was onto a [locations.json](https://raw.githubusercontent.com/LoveMilkTea/Wayfinder/master/locations.json) which was stored on the Firebase Realtime Database. 
-After the HACC, I worked on creating a prototype of timed event functionality. This functionality allows consumers, visitors, and promoters to advertise their event or activity through the Wayfinder application as timed points on the map. 
 
-On the Technical Program Management side, I assisted my team leader in setting up weekly stand-up meetings and the division of prioritized tasks during the course of the HACC and managed the deployment process of our application. To deploy this app on the web, the [Heroku](https://www.heroku.com/) cloud application platform was used. Heroku was a free and easy way for our group to get our application deployed without paying for a subscription to other cloud hosting services. Additionally, I also deployed our application to the Google Play store after the HACC as [Wayfinder](https://play.google.com/store/apps/details?id=com.herokuapp.wayfinder&hl=en). 
+On the Software Developer side, I worked on creating the filtering functionality for the LoveMilkTea application for users to filter through point type such as "Food" and "Entertainment." The points from the filtering function were extracted from [Firebase Realtime Database](https://firebase.google.com/) based the filter criteria. I also assisted in the data preparation process and did research to catagorize which each point was onto a [locations.json](https://raw.githubusercontent.com/LoveMilkTea/Wayfinder/master/locations.json) which was stored on the Firebase Realtime Database.
+After the HACC, I worked on creating a prototype of timed event functionality. This functionality allows consumers, visitors, and promoters to advertise their event or activity through the Wayfinder application as timed points on the map.
 
-Perhaps the funnest part of the HACC was working on the HACC video pitch above for the project presentation day. It was definitely fun and I had a great time memeing my way through the HACC. It was also a good learning experience that funny things often become memorable things because the run I did to the HACC definitely got a lot of people laughing. 
+On the Technical Program Management side, I assisted my team leader in setting up weekly stand-up meetings and the division of prioritized tasks during the course of the HACC and managed the deployment process of our application. To deploy this app on the web, the [Heroku](https://www.heroku.com/) cloud application platform was used. Heroku was a free and easy way for our group to get our application deployed without paying for a subscription to other cloud hosting services. Additionally, I also deployed our application to the Google Play store after the HACC as [Wayfinder](https://play.google.com/store/apps/details?id=com.herokuapp.wayfinder&hl=en).
+
+Perhaps the funnest part of the HACC was working on the HACC video pitch above for the project presentation day. It was definitely fun and I had a great time memeing my way through the HACC. It was also a good learning experience that funny things often become memorable things because the run I did to the HACC definitely got a lot of people laughing.
 
 <img src="/images/lmt-desk.png" width="700" height="600" class="ui huge floated rounded image">
 
 
-This HACC was definitely a great learning experience. This was my first time at a real Hackathon (though I did do an internal one during my time as an intern at IBM but me and my team were mostly there for the free stuff) and I really enjoyed how challenging it was to work on a project at a given time constraint. I owe part of my success to my past internships and Software Engineering professor at the University of Hawaii at Manoa for preparing me for this high-pressure environment. 
+This HACC was definitely a great learning experience. This was my first time at a real Hackathon (though I did do an internal one during my time as an intern at IBM but me and my team were mostly there for the free stuff) and I really enjoyed how challenging it was to work on a project at a given time constraint. I owe part of my success to my past internships and Software Engineering professor at the University of Hawaii at Manoa for preparing me for this high-pressure environment.
 
 Deployment was the hardest challenge for me in this project because I was not familiar with the strict guidelines on how to deploy an application on the Google Play store and the Android development environment. A huge issue I ran into that prevented me from deploying the application on the Google Play store during the HACC was my Android Development Kit was a higher version that what Ionic needed to be able to build the libaries and "transpile" into a .apk file. Once I was able to properly make an .apk, I was unable to push the app onto the Google Play store due to a wrong XML tag in a config file of the application. This made me rebuild the .apk file. Because of this tedious experience, I now keep a Notepad file of the build commands for building an Ionic app into an .apk file on my desktop.
 

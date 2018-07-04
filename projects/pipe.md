@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pipedot.jpg
+image: 
 title: PIPE
 permalink: projects/pipe
 date: 2013
@@ -20,12 +20,12 @@ After a command is entered, the program scans for keywords mapped to selected co
 <br>
 <img src="../images/PIPE1.png" class="ui huge floated rounded image">
 <br>
-This was my first-ever programming project using the first programming language I learned. Now that I am I college junior, I feel that it was probably a bad idea for a high school junior to pick C as his first programming language to learn. It was definitely a huge learning curve from teaching myself how to program to creating an application that accomplishes a goal. 
+This was my first-ever programming project using the first programming language I learned. Now that I am I college junior, I feel that it was probably a bad idea for a high school junior to pick C as his first programming language to learn. It was definitely a huge learning curve from teaching myself how to program to creating an application that accomplishes a goal.
 
-What drove me to create PIPE was my desire to simplify programming for beginning programmers. I also wanted a cool demo with a robot at my booth so I decided to do something with a robot. From this high school science fair project, I had my first experience with Natural Language Processing (a popular topic in Computer Science) and learned basic C concepts such as if-statements, for-loops, pointers and I/O. 
+What drove me to create PIPE was my desire to simplify programming for beginning programmers. I also wanted a cool demo with a robot at my booth so I decided to do something with a robot. From this high school science fair project, I had my first experience with Natural Language Processing (a popular topic in Computer Science) and learned basic C concepts such as if-statements, for-loops, pointers and I/O.
 
-Today, I am a Computer Science major at the University of Hawaii at Manoa. I also volunteer as a high school project judge and mentor high school students for [Hawaii Science Fairs](http://www.hawaiiacademyofscience.org/) as a way of "giving back" to the things that lead me to where I am today. I've definitely made a huge improvement as a programmer since high school. 
+Today, I am a Computer Science major at the University of Hawaii at Manoa. I also volunteer as a high school project judge and mentor high school students for [Hawaii Science Fairs](http://www.hawaiiacademyofscience.org/) as a way of "giving back" to the things that lead me to where I am today. I've definitely made a huge improvement as a programmer since high school.
 
-If you want to learn more about this project and my humble beginnings as a programmer without any formal Computer Science education, please check out the Github repo below! 
+If you want to learn more about this project and my humble beginnings as a programmer without any formal Computer Science education, please check out the Github repo below!
 
 Source: <a href="https://github.com/chrisnguyenhi/pipe"><i class="large github icon"></i>PIPE</a>
