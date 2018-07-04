@@ -409,7 +409,7 @@ landing-navbar {
   -o-transition: all .2s ease-in-out;
   -ms-transition: all .2s ease-in-out;
   transition: all .2s ease-in-out;
-  color: #4183c4;
+  color: #000000;
 }
 
 #container-background .ui.middle.aligned.centered.grid.text.container .circular.icon:hover {
