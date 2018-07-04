@@ -533,22 +533,22 @@ i.circular.icon {
   background-color: #fff;
 }
 
-.ui.cards > .card > .content > .header:not(.ui) {
+/* .ui.cards > .card > .content > .header:not(.ui) {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;
-}
+} */
 
 .ui.cards > .card .meta {
   margin-top: 1px;
 }
 
-.ui.mini.labels .label {
+/* .ui.mini.labels .label {
   font-size: .6785714rem;
   color: rgba(0, 0, 0, .775);
-}
+} */
 
-.ui.cards > .card > .content > .description {
+/* .ui.cards > .card > .content > .description {
   color: rgba(0, 0, 0, .8);
-}
+} */
 
 /* ========================================== */
 /* Google Fonts */
