@@ -27,10 +27,10 @@
   {% endif %}
 </a> -->
 
-<a style="min-width:20px;" class="card"
+<a style="min-width:20px;" class="blurring card"
    href="{% if page.projecturl %}{{ page.projecturl }}{% else %}{{ site.baseurl}}{{ include.page.url }}{% endif %}">
   {% if include.page.image %}
-  <div class="blurring dimmable image">
+  <div class="dimmable image">
     <div class="ui dimmer">
 
       <div class="content">
@@ -53,5 +53,6 @@
 $('.card').dimmer({
   on: 'hover'
 });
+//hey
 
 </script>
