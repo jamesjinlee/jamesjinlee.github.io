@@ -533,6 +533,11 @@ i.circular.icon {
   background-color: #67EAF2;
 }
 
+.dimmer {
+  opacity: 0.3;
+  
+}
+
 
 /* .ui.cards > .card > .content > .header:not(.ui) {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;
