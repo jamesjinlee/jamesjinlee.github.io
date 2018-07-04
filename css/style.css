@@ -533,7 +533,7 @@ i.circular.icon {
   background-color: #67EAF2;
 }
 
-.ui.dimmer >.content {
+.ui.dimmer >.content > *{
   font-size: 50px;
 }
 
