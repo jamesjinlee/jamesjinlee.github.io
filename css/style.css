@@ -533,13 +533,8 @@ i.circular.icon {
   background-color: #67EAF2;
 }
 
-.dimmer {
-  background-color: rgb(150, 150, 150);
-}
 
-.blurring.dimmable.card >.ui.dimmer {
-  background-color: rgb(100, 100, 100);
-}
+
 
 
 /* .ui.cards > .card > .content > .header:not(.ui) {
