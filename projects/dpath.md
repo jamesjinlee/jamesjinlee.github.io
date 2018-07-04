@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/cyan.png
-title: D-PatH
+title: D-Path
 permalink: projects/airis
 date: 2018
 ---
