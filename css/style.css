@@ -553,6 +553,9 @@ i.circular.icon {
   height: 800px;
   background-color: red;
 }
+.ui.dimmer>.content>* {
+  padding: 20px;
+}
 
 
 
