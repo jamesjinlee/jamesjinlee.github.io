@@ -1,7 +1,7 @@
 <!-- If on landing page, match color to background -->
 {% if page.url == "/" %}
-<landing-navbar style="background-color: #060b31" class="navbar-slider">
-  <div style="background-color: #060b31" class="ui fluid borderless inverted container menu">
+<landing-navbar style="background-color: none" class="navbar-slider">
+  <div style="background-color: none" class="ui fluid borderless inverted container menu">
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
     <!-- To get name for home button: {{ site.title | escape }} -->
