@@ -536,7 +536,11 @@ i.circular.icon {
 .ui.dimmer >.content > *{
   font-size: 50px !important;
 }
-
+.box {
+  width: 50%;
+  height: 800px;
+  background-color: red;
+}
 
 
 
