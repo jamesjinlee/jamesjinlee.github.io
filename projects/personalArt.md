@@ -10,7 +10,7 @@ labels:
   - Raspberry Pi
   - IP/TCP
   - Embedded Systems
-summary: An inexpensive, 72" automated video wall system using six LG 24" monitors and seven Raspberry Pis developed at Oceanit.
+summary: Artwork made while learning Photoshop and Illustrator
 ---
 <img class class="ui large right floated rounded image" src="../images/piwall2.jpg">
 

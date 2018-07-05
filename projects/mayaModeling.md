@@ -10,7 +10,7 @@ labels:
   - EZ
   - Animation
   - Pokemon
-summary: A scripted Pokemon battle animation developed in ICS 111 at the University of Hawaii at Manoa.
+summary: Various modeling projects using Maya software
 ---
 <iframe width="620" height="480" src="https://www.youtube.com/embed/EqaDmNBn5KA" frameborder="0" allowfullscreen></iframe>
 
