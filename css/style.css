@@ -535,10 +535,14 @@ i.circular.icon {
 
 .ui.dimmer >.content > .center >.header{
   font-size: 5rem !important;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
 }
 
 .ui.dimmer >.content > .center >.description{
   font-size: 2rem !important;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
 }
 .boxx {
   width: 50%;
