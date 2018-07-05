@@ -4,7 +4,7 @@ type: project
 image: images/chris.png
 title: D-Path
 permalink: projects/airis
-summary: An android app that uses collaborative filtering and machine learning to recommend which Dartmouth courses to take
+summary: An android app that recommends which courses to take
 date: 2018
 ---
 <img class class="ui medium right floated rounded image" src="../images/airisdot.png">

@@ -4,7 +4,7 @@ type: project
 image: images/cyan.png
 title: Wen's Tea
 permalink: projects/lovemilktea
-date: 2017
+date: 2018
 labels:
   - Javascript
   - HTML

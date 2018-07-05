@@ -4,7 +4,7 @@ type: project
 image: images/cyan.png
 title: Maya Modeling
 permalink: projects/jasonvsdylan
-date: 2014
+date: 2017
 labels:
   - Java
   - EZ

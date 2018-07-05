@@ -4,7 +4,7 @@ type: project
 image: images/cyan.png
 title: Maya Animation
 permalink: projects/ilw2015
-date: 2015
+date: 2017
 labels:
   - Volunteer
   - Hamilton Scholars
