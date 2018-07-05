@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/cyan.png
-title: International Leader Week
+title: Maya Animation
 permalink: projects/ilw2015
 date: 2015
 labels:

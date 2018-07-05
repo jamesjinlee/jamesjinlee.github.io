@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/cyan.png
-title: Love Milk Tea
+title: Wen's Tea
 permalink: projects/lovemilktea
 date: 2017
 labels:

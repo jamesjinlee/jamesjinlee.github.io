@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/cyan.png
-title: Jason vs Dylan
+title: Maya Modeling
 permalink: projects/jasonvsdylan
 date: 2014
 labels:

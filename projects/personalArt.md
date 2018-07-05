@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/cyan.png
-title: Piewall
+title: Personal Artwork
 permalink: projects/piewall
 date: 2016
 labels:
