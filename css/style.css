@@ -568,10 +568,16 @@ i.circular.icon {
   padding: 20px;
 }
 
+.ui.card >.card {
+  margin-top: 20px;
+}
 /* media queries */
 @media only screen and (min-width: 900px) {
   .ui.cards > .card {
     max-width: 400px;
+  }
+  .ui.card >.card {
+    max-width: 830px;
   }
 }
 
