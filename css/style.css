@@ -335,6 +335,7 @@ li > ul {
 /* Header
 /* ========================================== */
 
+/*   to remove background */
 .ui.fluid.borderless.inverted.container.menu {
   background-color: none;
   height: 55px;
@@ -351,6 +352,7 @@ li > ul {
   background: none;
 }
 
+
 .ui.fluid.borderless.inverted.container.menu .right.aligned.item .aligned.item {
   color: #fff;
   font-size: 16px;
@@ -362,8 +364,7 @@ li > ul {
   background: none;
 }
 
-landing-navbar {
-  background-color: #2c3e50;
+.landing-navbar {
   height: 55px;
   position: fixed;
   top: 0;
@@ -565,6 +566,13 @@ i.circular.icon {
 }
 .ui.dimmer>.content>* {
   padding: 20px;
+}
+
+/* media queries */
+@media only screen and (max-width: 900px) {
+  .ui.cards > .card {
+    max-width: 500px;
+  }
 }
 
 
