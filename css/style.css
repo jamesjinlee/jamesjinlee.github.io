@@ -341,7 +341,7 @@ li > ul {
   height: 55px;
   color: #fff;
 }
-.landing-navbar {
+landing-navbar {
   background-color: none;
 }
 
@@ -364,7 +364,7 @@ li > ul {
   background: none;
 }
 
-.landing-navbar {
+landing-navbar {
   height: 55px;
   position: fixed;
   top: 0;
