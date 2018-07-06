@@ -1,6 +1,6 @@
 ---
 layout: project
-type: project
+type: project2
 image: images/cyan.png
 title: Personal Artwork
 permalink: projects/piewall
