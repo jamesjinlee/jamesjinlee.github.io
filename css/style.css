@@ -576,9 +576,6 @@ i.circular.icon {
   .ui.cards > .card {
     max-width: 400px;
   }
-  .ui.card >.card {
-    max-width: 830px;
-  }
 }
 
 
