@@ -12,14 +12,14 @@
      content to avoid any CSS collisions with our real content. -->
 <div class="content-cover">
 
-  <div style="margin-top: 85px; padding-bottom:15px" class="ui text container">
-    <div style="margin-left:10px">
+  <div style="margin-top: 85px;" class="ui text container">
+    <div style="margin-left:10px;text-align:center">
       <h1>{{ page.title }}</h1>
       <hr />
     </div>
   </div>
   <div style="margin-bottom:55px;" class="cd-container">
-    <div style="margin-top:100px;" class="ui container">
+    <div style="margin-top:40px;" class="ui container">
       <div class="projects-mobile-screen all-projects">
         <div class="ui stackable centered two cards">
           {% assign project_pages = site.pages | where: "type", "project" | sort: "date" | reverse %}
