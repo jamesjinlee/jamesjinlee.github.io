@@ -15,17 +15,19 @@ summary: Maya | Photoshop
 
 <img src="/images/room1.jpg" width="700" height="500" class="ui huge floated rounded image">
 
-<p></p>
+</br>
+<br>
+<br>
+
+<img src="/images/room2.jpg" width="700" height="500" class="ui huge floated rounded image">
+
+<br/>
+<br/>
 <p></p>
 <p></p>
 
 <img src="/images/room2.jpg" width="700" height="500" class="ui huge floated rounded image">
-
-<p></p>
-<p></p>
-
-<img src="/images/room2.jpg" width="700" height="500" class="ui huge floated rounded image">
-
+<p style="margin-top: 10px"></p>
 <br>
 <br>
 
