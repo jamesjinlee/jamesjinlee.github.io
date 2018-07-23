@@ -10,7 +10,7 @@ labels:
   - Raspberry Pi
   - IP/TCP
   - Embedded Systems
-summary: Artwork made while learning Photoshop and Illustrator
+summary: Photoshop/Illustrator
 ---
 <img class class="ui large right floated rounded image" src="../images/piwall2.jpg">
 

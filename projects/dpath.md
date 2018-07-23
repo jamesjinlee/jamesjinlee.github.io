@@ -4,7 +4,7 @@ type: project
 image: images/chris.png
 title: D-Path
 permalink: projects/airis
-summary: An android app that recommends which courses to take
+summary: Android App Development  Android Studio  Firebase  Sketch  Photoshop/Illustrator
 date: 2018
 ---
 <img class class="ui medium right floated rounded image" src="../images/airisdot.png">

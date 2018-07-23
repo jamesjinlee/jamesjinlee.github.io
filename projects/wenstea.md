@@ -12,7 +12,7 @@ labels:
   - Ionic
   - Hackathon
 
-summary: A commercial website for a local business in Honolulu, Hawaii
+summary: Website development  HTML/CSS/Javascript
 ---
 
 <img src="/images/team.jpg" width="700" height="500" class="ui huge floated rounded image">

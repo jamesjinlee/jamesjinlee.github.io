@@ -9,7 +9,7 @@ labels:
   - Volunteer
   - Hamilton Scholars
   - Guatemala
-summary: Final computer animation project using knowledge in Maya modeling and animation principles
+summary: Maya
 ---
 <img class class="ui medium right floated rounded image" src="../images/ilw1.png">
 During the summer of 2015, I participated in International Leader Week 2015, a one week community service trip in [Tecpan, Guatemala](https://en.wikipedia.org/wiki/Tecp%C3%A1n_Guatemala) through [Alexander Hamilton Scholars](http://hamiltonscholars.org/1/).
