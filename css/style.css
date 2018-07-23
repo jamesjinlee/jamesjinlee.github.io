@@ -574,7 +574,7 @@ i.circular.icon {
 
 .ui.card, .ui.cards>.card {
   box-shadow: 0;
-  transition: none;
+  transition: none;w
 }
 
 .ui.cards a.card:hover {
