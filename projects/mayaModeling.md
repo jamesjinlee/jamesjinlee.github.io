@@ -10,7 +10,7 @@ labels:
   - EZ
   - Animation
   - Pokemon
-summary: Maya     Photoshop
+summary: Maya | Photoshop
 ---
 <iframe width="620" height="480" src="https://www.youtube.com/embed/EqaDmNBn5KA" frameborder="0" allowfullscreen></iframe>
 

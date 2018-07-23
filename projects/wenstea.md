@@ -12,7 +12,7 @@ labels:
   - Ionic
   - Hackathon
 
-summary: Website development  HTML/CSS/Javascript
+summary: Website Development | HTML/CSS/Javascript
 ---
 
 <img src="/images/team.jpg" width="700" height="500" class="ui huge floated rounded image">
