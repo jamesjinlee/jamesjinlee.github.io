@@ -583,6 +583,7 @@ i.circular.icon {
 
 .ui.cards a.card:hover {
   transform: translate(2, -4px);
+  transform: scale(1.03, 1.03);
   box-shadow: -4px 8px 10px 1px #D4D4D5;
   -webkit-transition: box-shadow 1s ease, -webkit-transform 1s ease;
   transition: box-shadow 1s ease, -webkit-transform 1s ease;
