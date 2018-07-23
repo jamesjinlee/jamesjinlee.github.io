@@ -11,7 +11,13 @@ labels:
   - Guatemala
 summary: Maya
 ---
-<img class class="ui medium right floated rounded image" src="../images/ilw1.png">
+<iframe width="800" height="480" src="https://www.youtube.com/watch?v=vE1VXPruO-c" frameborder="0" allowfullscreen></iframe>
+
+In my Computer Animation class I learned the basic principles of animation, applied in the Maya software.
+
+After weeks of hand-drawn and computer generated posing, creating shorter simple animations, and mastering the walk/run cycle, the term culminated in a final animation project, which can be seen above.
+
+<!-- <img class class="ui medium right floated rounded image" src="../images/ilw1.png">
 During the summer of 2015, I participated in International Leader Week 2015, a one week community service trip in [Tecpan, Guatemala](https://en.wikipedia.org/wiki/Tecp%C3%A1n_Guatemala) through [Alexander Hamilton Scholars](http://hamiltonscholars.org/1/).
 This service trip was hosted by [Cross-Cultural Solutions](https://www.crossculturalsolutions.org/), an organization which allows people from the US to volunteer internationally.
 
@@ -27,4 +33,4 @@ What stood out the most to me was that the Guatemalan language, [Kaqchlcal](http
 
 For more information about the Alexander Hamilton Scholars program and scholarship, please check out the link below!
 
-Link: <a href="http://hamiltonscholars.org/1/the-program/who-we-serve/">Alexander Hamilton Scholars</a>
+Link: <a href="http://hamiltonscholars.org/1/the-program/who-we-serve/">Alexander Hamilton Scholars</a> -->
