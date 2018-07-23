@@ -11,11 +11,13 @@ labels:
   - Guatemala
 summary: Maya
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vE1VXPruO-c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/vE1VXPruO-c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 
 In my Computer Animation class I learned the basic principles of animation, applied in the Maya software.
 
-After weeks of hand-drawn and computer generated posing, creating shorter simple animations, and mastering the walk/run cycle, the term culminated in a final animation project, which can be seen above.
+After weeks of hand-drawn and computer generated posing, creating shorter simple animations, and mastering the walk/run cycle, the term culminated in a final animation project, as seen above.
 
 <!-- <img class class="ui medium right floated rounded image" src="../images/ilw1.png">
 During the summer of 2015, I participated in International Leader Week 2015, a one week community service trip in [Tecpan, Guatemala](https://en.wikipedia.org/wiki/Tecp%C3%A1n_Guatemala) through [Alexander Hamilton Scholars](http://hamiltonscholars.org/1/).
