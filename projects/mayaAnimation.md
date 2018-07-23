@@ -11,7 +11,7 @@ labels:
   - Guatemala
 summary: Maya
 ---
-<iframe width="800" height="480" src="https://www.youtube.com/watch?v=vE1VXPruO-c" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vE1VXPruO-c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 In my Computer Animation class I learned the basic principles of animation, applied in the Maya software.
 
