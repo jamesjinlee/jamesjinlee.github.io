@@ -26,6 +26,9 @@ summary: Maya | Photoshop
 
 <img src="/images/room2.jpg" width="700" height="500" class="ui huge floated rounded image">
 
+<br>
+<br>
+
 <img src="/images/room3.jpg" width="700" height="500" class="ui huge floated rounded image">
 
 <img src="/images/room4.jpg" width="700" height="500" class="ui huge floated rounded image">
