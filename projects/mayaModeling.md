@@ -15,7 +15,14 @@ summary: Maya | Photoshop
 
 <img src="/images/room1.jpg" width="700" height="500" class="ui huge floated rounded image">
 
+<p></p>
+<p></p>
+<p></p>
+
 <img src="/images/room2.jpg" width="700" height="500" class="ui huge floated rounded image">
+
+<p></p>
+<p></p>
 
 <img src="/images/room2.jpg" width="700" height="500" class="ui huge floated rounded image">
 
@@ -33,7 +40,7 @@ summary: Maya | Photoshop
 
 <img src="/images/bipedView.png" width="700" height="500" class="ui huge floated rounded image">
 
-<iframe width="700" height="400" src="https://www.youtube.com/embed/QCqAj8zaX90" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="700" height="394" src="https://www.youtube.com/embed/QCqAj8zaX90" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <!-- <iframe width="620" height="480" src="https://www.youtube.com/embed/EqaDmNBn5KA" frameborder="0" allowfullscreen></iframe>
 
 Jason vs. Dylan is a Java project that creates an animation from instructions off text files. The characters were based off of my ICS 111 (Intro to Programming I) professor and teaching assistant. The graphics were implemented using [EZ](http://www2.hawaii.edu/~dylank/ics111/) library provided by ICS 111 class. From this project, I gained experience using graphics and sounds to create animations in Java.
