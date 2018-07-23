@@ -571,6 +571,20 @@ i.circular.icon {
 .ui.card >.card {
   margin-top: 20px;
 }
+
+.ui.card, .ui.cards>.card {
+  box-shadow: 0;
+}
+
+.ui.cards a.card:hover {
+  transform: 0;
+  box-shadow: -5px 10px 12px 1px #D4D4D5, -1px 2px 1px 1px #D4D4D5;
+  -webkit-transition: box-shadow .1s ease, -webkit-transform .1s ease;
+  transition: box-shadow .1s ease, -webkit-transform .1s ease;
+  transition: box-shadow .1s ease, transform .1s ease;
+  transition: box-shadow .1s ease, transform .1s ease, -webkit-transform .1s ease;
+
+}
 /* media queries */
 @media only screen and (min-width: 900px) {
   .ui.cards > .card {
