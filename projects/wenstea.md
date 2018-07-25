@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cyan.png
+image: images/wenstea.png
 title: Wen's Tea
 permalink: projects/lovemilktea
 date: 2018
