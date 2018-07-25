@@ -15,10 +15,10 @@ labels:
 summary: Website Development | HTML | CSS | Javascript
 ---
 
-<img src="/images/team.jpg" width="700" height="500" class="ui huge floated rounded image">
+<img src="/images/wenstea1" class="ui huge floated rounded image">
 
 
-This project was a part of the Hawaii Annual Code Challenge Hackathon (HACC). The objective was to create a navigation application with some AR functionality with crowd-sourced data. I worked with a team of seven to deliver a full-stack, cross-platform mobile application using the [Google Maps API](https://developers.google.com/maps/) and the [Ionic development framework](https://ionicframework.com/).
+<!-- This project was a part of the Hawaii Annual Code Challenge Hackathon (HACC). The objective was to create a navigation application with some AR functionality with crowd-sourced data. I worked with a team of seven to deliver a full-stack, cross-platform mobile application using the [Google Maps API](https://developers.google.com/maps/) and the [Ionic development framework](https://ionicframework.com/).
 For this project, I served both as a Software Developer and Technical Program Manager.
 After the HACC, my team and I continued to develop this application to add more functionality and deployment on the Google Play store as "Wayfinder."  
 
@@ -47,4 +47,4 @@ The greatest takeway I got from the HACC is the power of storytelling. No matter
 
 For more information and the code repository, please check out the Github link below for the latest version of Wayfinder! Or try our [live Heroku deployment!](https://lovemilktea.herokuapp.com/)
 
-Source: <a href="https://github.com/LoveMilkTea/Wayfinder"><i class="large github icon"></i>Wayfinder</a>
+Source: <a href="https://github.com/LoveMilkTea/Wayfinder"><i class="large github icon"></i>Wayfinder</a> -->
