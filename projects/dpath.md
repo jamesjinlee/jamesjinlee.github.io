@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/chris.png
+image: images/d-path.png
 title: D-Path
 permalink: projects/airis
 summary: Android App Development | Android Studio | Firebase | Sketch  Photoshop/Illustrator
