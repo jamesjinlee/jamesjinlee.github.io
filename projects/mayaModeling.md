@@ -15,7 +15,6 @@ summary: Maya | Photoshop
 
 <img src="/images/room1.jpg" width="700" height="500" class="ui huge floated rounded image">
 
-</br>
 <br>
 <br>
 

@@ -12,7 +12,10 @@ labels:
   - Embedded Systems
 summary: Photoshop | Illustrator
 ---
-<img class class="ui large right floated rounded image" src="../images/piwall2.jpg">
+
+A series of personal artworks using photoshop/Illustrator
+
+<!-- <img class class="ui large right floated rounded image" src="../images/piwall2.jpg">
 
 During my time as a Network and Security Intern at [Oceanit](http://www.oceanit.com/), I created a relatively inexpensive, 72" automated video wall system using six LG 24" monitors and seven Raspberry Pis.
 
@@ -48,4 +51,4 @@ The Ibis Intellisockets also came with a software that allows the Piewall system
 
 If you want to learn more about this project, please check out the github link below for my configurations and settings!
 
-Source: <a href="https://github.com/chrisnguyenhi/piwall72"><i class="large github icon"></i>Pi Wall 72</a>
+Source: <a href="https://github.com/chrisnguyenhi/piwall72"><i class="large github icon"></i>Pi Wall 72</a> -->

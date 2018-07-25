@@ -11,7 +11,7 @@ labels:
   - Guatemala
 summary: Maya
 ---
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/vE1VXPruO-c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="840" height="472.5" src="https://www.youtube.com/embed/vE1VXPruO-c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
