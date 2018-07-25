@@ -13,8 +13,7 @@ summary: Maya
 ---
 <iframe width="840" height="472.5" src="https://www.youtube.com/embed/vE1VXPruO-c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
-
+<br>
 In my Computer Animation class I learned the basic principles of animation, applied in the Maya software.
 
 After weeks of hand-drawn and computer generated posing, creating shorter simple animations, and mastering the walk/run cycle, the term culminated in a final animation project, as seen above.

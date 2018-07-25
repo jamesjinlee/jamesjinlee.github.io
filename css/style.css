@@ -572,8 +572,9 @@ i.circular.icon {
   margin-top: 20px;
 }
 
-.ui.floated.image:last-child {
-  margin-bottom: 50px;
+.ui.huge.floated.rounded.image{
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .ui.card, .ui.cards>.card {
