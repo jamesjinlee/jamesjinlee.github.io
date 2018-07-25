@@ -15,7 +15,7 @@ labels:
 summary: Website Development | HTML | CSS | Javascript
 ---
 
-<img src="/images/wenstea1" class="ui huge floated rounded image">
+<img src="/images/wenstea1.png" class="ui huge floated rounded image">
 
 
 <!-- This project was a part of the Hawaii Annual Code Challenge Hackathon (HACC). The objective was to create a navigation application with some AR functionality with crowd-sourced data. I worked with a team of seven to deliver a full-stack, cross-platform mobile application using the [Google Maps API](https://developers.google.com/maps/) and the [Ionic development framework](https://ionicframework.com/).
