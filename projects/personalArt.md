@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cyan.png
+image: images/personal.jpg
 title: Personal Artwork
 permalink: projects/personalArt
 date: 2016
