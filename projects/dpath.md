@@ -7,7 +7,12 @@ permalink: projects/airis
 summary: Android App Development | Android Studio | Firebase | Sketch  Photoshop/Illustrator
 date: 2018
 ---
-<img class class="ui medium right floated rounded image" src="../images/airisdot.png">
+
+<img src="/images/dpath1.jpg" width="700" class="ui huge floated rounded image">
+
+
+
+<!-- <img class class="ui medium right floated rounded image" src="../images/airisdot.png">
 
 AIRIS is a C++ console application using the [OpenCV](http://opencv.org/) Computer Vision library to track motion in real time through a live-video feed through a camera or a normal video file. This project was a collaborative effort for me a STEM Resource Mentor for the Hawaii State Deparment of Education's [Kaimuki-McKinley-Roosevelt Complex Area](http://www.hawaiipublicschools.org/ConnectWithUs/Organization/OfficesAndBranches/Pages/Kaimuki-McKinley-Roosevelt.aspx).
 
@@ -29,4 +34,4 @@ This project and my mentees were also featured on Hawaii News Now on Sunrise for
 
 If you want to learn more about this project, please check out this Github link below!
 
-Source: <a href="https://github.com/chrisnguyenhi/airis"><i class="large github icon"></i>AIRIS</a>
+Source: <a href="https://github.com/chrisnguyenhi/airis"><i class="large github icon"></i>AIRIS</a> -->
