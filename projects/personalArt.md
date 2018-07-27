@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/personal.jpg
+image: images/personal2.jpg
 title: Personal Artwork
 permalink: projects/personalArt
 date: 2016
