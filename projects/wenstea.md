@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/wensteaa.jpg
 title: Wen's Tea
-permalink: projects/lovemilktea
+permalink: projects/wenstea
 date: 2018
 labels:
   - Javascript

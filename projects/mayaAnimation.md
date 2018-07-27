@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/cyan.png
 title: Maya Animation
-permalink: projects/ilw2015
+permalink: projects/mayaAnimation
 date: 2017
 labels:
   - Volunteer

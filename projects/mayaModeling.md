@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/cyan.png
+image: images/mayamodeling.jpg
 title: Maya Modeling
-permalink: projects/jasonvsdylan
+permalink: projects/mayaModeling
 date: 2017
 labels:
   - Java

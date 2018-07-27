@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/cyan.png
 title: Personal Artwork
-permalink: projects/piewall
+permalink: projects/personalArt
 date: 2016
 labels:
   - Shell

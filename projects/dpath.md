@@ -3,8 +3,8 @@ layout: project
 type: project
 image: images/dpathh.jpg
 title: D-Path
-permalink: projects/airis
-summary: Android App Development | Android Studio | Firebase | Sketch  Photoshop/Illustrator
+permalink: projects/dpath
+summary: Android App Development | Android Studio | Firebase | Sketch | Photoshop/Illustrator
 date: 2018
 ---
 
