@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/mayaanimation.jpg
+image: images/mayaanimation2.jpg
 title: Maya Animation
 permalink: projects/mayaAnimation
 date: 2017
