@@ -2,7 +2,7 @@
 {% if page.url == "/" %}
 <!-- style="background-color: #060b31" -->
 <landing-navbar class="navbar-slider">
-  <div style="background-color: #060b31" class="ui fluid borderless inverted container menu james">
+  <div style="background-color: none; background: none;" class="ui fluid borderless inverted container menu james">
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
     <!-- To get name for home button: {{ site.title | escape }} -->
@@ -17,7 +17,7 @@
 <!-- If on any other page -->
 {% else %}
 <landing-navbar class="navbar-slider">
-  <div class="ui fluid borderless inverted container menu">
+  <div style="background-color: #060b31" class="ui fluid borderless inverted container menu">
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
     <!-- style="color:rgb(50, 50, 50)" -->
