@@ -428,11 +428,12 @@ landing-navbar {
 }
 
 i.circular.icon {
-  box-shadow: 0 0 0 0.1em rgba(0, 0, 0) inset;
-  color: beige;
+  box-shadow: 0 0 0 1em #585858 inset;
+  color: #46a6e2;
 }
 i.circular.icon:hover{
-  color: blue;
+  box-shadow: 0 0 0 1em ##46a6e2 inset;
+  color: #585858;
 }
 
 /* ========================================== */
@@ -544,6 +545,10 @@ i.circular.icon:hover{
 /* ========================================== */
 /* Project page */
 /* ========================================== */
+
+.ui.menu {
+  border-radius: 0;
+}
 
 .ui.cards > .card > .image:not(.ui) > img {
   background-color: #67EAF2;
