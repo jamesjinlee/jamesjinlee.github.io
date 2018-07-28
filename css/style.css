@@ -336,11 +336,11 @@ li > ul {
 /* ========================================== */
 
 /*   to remove background */
-/* .ui.fluid.borderless.inverted.container.menu {
-  background-color: none;
+.ui.fluid.borderless.inverted.container.menu {
+  /* background-color: none; */
   height: 55px;
-  color: #fff;
-} */
+  /* color: #fff; */
+}
 landing-navbar {
   background-color: none;
 }

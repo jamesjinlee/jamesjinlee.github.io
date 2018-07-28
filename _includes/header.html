@@ -2,7 +2,7 @@
 {% if page.url == "/" %}
 <!-- style="background-color: #060b31" -->
 <landing-navbar class="navbar-slider">
-  <div class="ui fluid borderless inverted container menu james">
+  <div style="background-color: #060b31" class="ui fluid borderless inverted container menu james">
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
     <!-- To get name for home button: {{ site.title | escape }} -->
@@ -20,11 +20,12 @@
   <div class="ui fluid borderless inverted container menu">
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
-    <a style="color:rgb(50, 50, 50)" class="ui centered header item" href="{{ "/" | relative_url }}"><i class="home icon"></i></a>
+    <!-- style="color:rgb(50, 50, 50)" -->
+    <a  class="ui centered header item" href="{{ "/" | relative_url }}"><i class="home icon"></i></a>
     <!-- <a class="ui centered header item" href="{{ "/" | relative_url }}"><img class="ui avatar image" src="/images/h.png">{{ site.title | escape }}</a> -->
-    <div style="color:rgb(50, 50, 50)"class="right aligned item">
+    <div class="right aligned item">
       {% for item in site.data.menu %}
-      <a style="color:rgb(50, 50, 50)" class="aligned item" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+      <a  class="aligned item" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
       {% endfor %}
     </div>
   </div>
