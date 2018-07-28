@@ -5,9 +5,21 @@ description: "Computer Science student, NASA Space Grant Fellow, and former IBM 
 permalink: /about/
 ---
 
-<img class="ui fluid centered large image" src="../images/chris.png">
+<img class="ui fluid centered large image" src="../images/james.png">
 
-Hi I'm Chris! I am senior at the University of Hawaii majoring in Computer Science with a minor in Business.
+Hi I'm James! Thanks for spending the time to get to know me a bit better!
+I'm currently a sophomore at Dartmouth College majoring in Computer Science modified with digital arts.
+
+Check out my projects to see some cool thinks I've done/am working on!
+And if you have any questions, or just want to talk, feel free to contact me through:
+
+Email: james.j.lee.20@dartmouth.edu
+Linkedin: www.linkedin.com/in/jamesjinlee/
+
+Looking forward to hearing from you!
+
+
+ <!-- I am senior at the University of Hawaii majoring in Computer Science with a minor in Business.
 For the 2017 - 2018 school year, I'll be doing a research project under a NASA Space Grant Fellowship and an internship under Oceanit, a scientific innovation and reseearch company located in Honolulu, Hawaii. After graduation, I hope to become a Technical Program Manager or a Software Developer.
 
 Since September 2014, I've also been serving as a STEM Mentor for a school complex in Hawaii. My emphasis as a STEM Mentor is early Computer Science education. Part of this role involves collaborating with teachers to develop a 21st century Computer Science curriculum. I have also mentored several students with Computer Science projects for the Honolulu District, Hawaii State, and Intel International Science and Engineering Fairs.
@@ -41,4 +53,4 @@ My Oceanit team also developed Harvest Vision for the Hawaii AGathon. Harvest Vi
 
 My experience in the Tech industry and the Education industry has shown me how to apply my technical knowledge in all situations. After college, it is my desire to work in an environment where cross-functional coordination is used deliver value to consumers and end-users.
 
-<hr>
+<hr> -->
