@@ -17,6 +17,9 @@ summary: Website Development | HTML | CSS | Javascript
 
 <img src="/images/wenstea1.jpg" width="700" class="ui huge floated rounded image">
 
+Wen's Tea is a local business that sells various tea drinks, including bubble tea, and is located in Honolulu, Hawaii. I created a commercial website for them using HTML, CSS, and Javascript. The website is not yet finalized, and is not yet public.
+
+Source: <a href="https://github.com/jamesjinlee/wenstea.com"><i class="large github icon"></i>Wen's Tea</a>
 
 <!-- This project was a part of the Hawaii Annual Code Challenge Hackathon (HACC). The objective was to create a navigation application with some AR functionality with crowd-sourced data. I worked with a team of seven to deliver a full-stack, cross-platform mobile application using the [Google Maps API](https://developers.google.com/maps/) and the [Ionic development framework](https://ionicframework.com/).
 For this project, I served both as a Software Developer and Technical Program Manager.
