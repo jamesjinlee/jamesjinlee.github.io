@@ -429,6 +429,10 @@ landing-navbar {
 
 i.circular.icon {
   box-shadow: 0 0 0 0.1em rgba(0, 0, 0) inset;
+  color: beige;
+}
+i.circular.icon:hover{
+  color: blue;
 }
 
 /* ========================================== */
@@ -489,7 +493,7 @@ i.circular.icon {
 }
 
 .footer-background-layout-2 {
-  background-color: #292929;
+  background-color: #3e3e3e;
   height: auto;
   font-size: 20px;
 }
