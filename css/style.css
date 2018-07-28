@@ -336,21 +336,23 @@ li > ul {
 /* ========================================== */
 
 /*   to remove background */
-.ui.fluid.borderless.inverted.container.menu {
+/* .ui.fluid.borderless.inverted.container.menu {
   background-color: none;
   height: 55px;
   color: #fff;
-}
+} */
 landing-navbar {
   background-color: none;
 }
-
-.ui.inverted.menu {
+.james{
   background: none;
 }
-.ui.menu{
+/* .ui.inverted.menu {
   background: none;
-}
+} */
+/* .ui.menu{
+  background: none;
+} */
 
 
 .ui.fluid.borderless.inverted.container.menu .right.aligned.item .aligned.item {
