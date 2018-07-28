@@ -5,7 +5,7 @@ description: "Dartmouth Sophomore with a Computer Science major modified with di
 permalink: /about/
 ---
 
-<img class="ui fluid centered large image" src="../images/james.png">
+<img class="ui fluid centered large image" src="../images/h.png">
 
 Hi I'm James! Thanks for spending the time to get to know me a bit better!
 I'm currently a sophomore at Dartmouth College majoring in Computer Science modified with digital arts.
