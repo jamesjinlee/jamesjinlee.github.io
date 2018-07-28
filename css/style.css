@@ -432,7 +432,7 @@ i.circular.icon {
   color: #46a6e2;
 }
 i.circular.icon:hover{
-  box-shadow: 0 0 0 1em ##46a6e2 inset;
+  box-shadow: 0 0 0 1em #46a6e2 inset;
   color: #585858;
 }
 
