@@ -8,9 +8,19 @@ summary: Android App Development | Android Studio | Firebase | Sketch | Photosho
 date: 2018
 ---
 
+<iframe width="700" height="393.75" src="https://www.youtube.com/embed/i9uI-JIyEFI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <img src="/images/dpath1.jpg" width="700" class="ui huge floated rounded image">
 
-<iframe width="700" height="393.75" src="https://www.youtube.com/embed/i9uI-JIyEFI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+D-Path is an app that helps Dartmouth students pick courses that they should take. You are given a list of all Dartmouth courses, and you rate the courses you've already taken. D-path then recommends courses that the student might like based on other users with similar interests, like how Netflix recommends movies or how Amazon recommends products. We collected course information from various sources such as the timetable from the Dartmouth course site and the ORC, and through machine learning and collaborative filtering, created an app to revolutionize how Dartmouth students choose their classes.
+
+I worked on this app in partnership with Marshall Peng. I focused on the front end application of this android app, including the layout, functionality, and UI.
+
+Source: <a href="https://github.com/jamesjinlee/dpath"><i class="large github icon"></i>D-Path (Front End)</a>
+
+Link: <a href="https://marshallpeng.github.io/yourdartmouthplan.me/">D-Path Website/Download APK </a>
+
+
 
 
 

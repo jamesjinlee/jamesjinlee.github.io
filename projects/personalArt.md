@@ -15,30 +15,34 @@ summary: Photoshop | Illustrator
 
 A series of personal artworks using photoshop/Illustrator
 
-<img src="/images/anger.jpg" width="700" class="ui huge floated rounded image">
+<img src="/images/HandMidterm.jpg" width="700" class="ui huge floated rounded image">
 
 <img src="/images/DepressedRobot.jpg" width="700" class="ui huge floated rounded image">
 
+<img src="/images/PropagandaPoster.jpg" width="700" class="ui huge floated rounded image">
+
+
 <img src="/images/FaceMidterm.jpg" width="700" class="ui huge floated rounded image">
+
+<img src="/images/LadyAndBaby.jpg" width="700" class="ui huge floated rounded image">
+
 
 <img src="/images/FamilyPortraitMidterm.jpg" width="700" class="ui huge floated rounded image">
 
 <img src="/images/innocentKids.jpg" width="700" class="ui huge floated rounded image">
 
-
-<img src="/images/HandMidterm.jpg" width="700" class="ui huge floated rounded image">
-
-<img src="/images/LadyAndBaby.jpg" width="700" class="ui huge floated rounded image">
-
-<img src="/images/Love.jpg" width="700" class="ui huge floated rounded image">
+<img src="/images/portraitOutline.jpg" width="700" class="ui huge floated rounded image">
 
 <img src="/images/OldMan.jpg" width="700" class="ui huge floated rounded image">
 
+<img src="/images/Love.jpg" width="700" class="ui huge floated rounded image">
+
 <img src="/images/onKnees.jpg" width="700" class="ui huge floated rounded image">
-<img src="/images/portraitOutline.jpg" width="700" class="ui huge floated rounded image">
-<img src="/images/PropagandaPoster.jpg" width="700" class="ui huge floated rounded image">
 
 <img src="/images/PropagandaPoster2.gif" width="700" class="ui huge floated rounded image">
+
+<img src="/images/anger.jpg" width="700" class="ui huge floated rounded image">
+
 
 
 
