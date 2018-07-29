@@ -4,10 +4,10 @@ html, div, span, canvas {
 }
 /* Need these backgrounds to fix initial white screen flash */
 body {
-  background:-o-linear-gradient(top, #283E51, #4B79A1);
-  background:-ms-linear-gradient(top, #283E51, #4B79A1);
-  background:-moz-linear-gradient(top, #283E51, #4B79A1);
-  background:-webkit-linear-gradient(top, #283E51, #4B79A1);
+  background:-o-linear-gradient(top, #112d46, #4B79A1);
+  background:-ms-linear-gradient(top, #112d46, #4B79A1);
+  background:-moz-linear-gradient(top, #112d46, #4B79A1);
+  background:-webkit-linear-gradient(top, #112d46, #4B79A1);
   margin:0;
   padding:0;
 }
@@ -22,8 +22,8 @@ body {
 #pixie {
   z-index:0;
   background: #FFA17F;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to bottom, #283E51, #4B79A1);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to bottom, #283E51, #4B79A1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: -webkit-linear-gradient(to bottom, #112d46, #4B79A1);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #112d46, #4B79A1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
   filter:progid:DXImageTransform.Microsoft.gradient(startColorStr='#040429', EndColorStr='#257eb7');
   -ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorStr='#040429', EndColorStr='#257eb7')";
