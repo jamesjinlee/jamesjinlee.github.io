@@ -420,11 +420,14 @@ landing-navbar {
   -o-transition: all .2s ease-in-out;
   -ms-transition: all .2s ease-in-out;
   transition: all .2s ease-in-out;
-  color: #000000;
+  color: #84aadc;
+  box-shadow: 0 0 0 1em #2e385f inset;
 }
 
 #container-background .ui.middle.aligned.centered.grid.text.container .circular.icon:hover {
   transform: scale(1.2);
+  color: #2e385f;
+  box-shadow: 0 0 0 1em #84aadc inset;
 }
 
 i.circular.icon {
