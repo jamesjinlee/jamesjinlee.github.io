@@ -429,10 +429,10 @@ landing-navbar {
 
 i.circular.icon {
   box-shadow: 0 0 0 1em #585858 inset;
-  color: #46a6e2;
+  color: #59b4ca;
 }
 i.circular.icon:hover{
-  box-shadow: 0 0 0 1em #46a6e2 inset;
+  box-shadow: 0 0 0 1em #59b4ca inset;
   color: #585858;
 }
 
