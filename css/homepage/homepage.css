@@ -4,10 +4,10 @@ html, div, span, canvas {
 }
 /* Need these backgrounds to fix initial white screen flash */
 body {
-  background:-o-linear-gradient(top, #040429, #257eb7);
-  background:-ms-linear-gradient(top, #040429, #257eb7);
-  background:-moz-linear-gradient(top, #040429, #257eb7);
-  background:-webkit-linear-gradient(top, #040429, #257eb7);
+  background:-o-linear-gradient(top, #283E51, #4B79A1);
+  background:-ms-linear-gradient(top, #283E51, #4B79A1);
+  background:-moz-linear-gradient(top, #283E51, #4B79A1);
+  background:-webkit-linear-gradient(top, #283E51, #4B79A1);
   margin:0;
   padding:0;
 }
@@ -18,12 +18,12 @@ body {
 #navigation-links {
   z-index:4;
 }
-
+/* #00223E, #DBC3FF */
 #pixie {
   z-index:0;
   background: #FFA17F;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to bottom, #00223E, #DBC3FF);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to bottom, #00223E, #DBC3FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: -webkit-linear-gradient(to bottom, #283E51, #4B79A1);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #283E51, #4B79A1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
   filter:progid:DXImageTransform.Microsoft.gradient(startColorStr='#040429', EndColorStr='#257eb7');
   -ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorStr='#040429', EndColorStr='#257eb7')";
@@ -34,11 +34,11 @@ body {
   z-index: 4;
   transition: all .3s ease-in-out;
 }
-#mountains, #grass {
+/* #mountains, #grass {
   width:100%;
   position:absolute;
   bottom:0px;
-}
+} */
 
 .ui.middle.aligned.centered.grid.text.container.home-page-header {
   width:100%;
@@ -52,7 +52,7 @@ body {
   transition: all .3s ease-in-out;
 }
 
-#mountains {
+/* #mountains {
   height: 230px;
   z-index:1;
   background:url(../../images/parallax-homepage/mountains.png) repeat-x 0 0;
@@ -61,4 +61,4 @@ body {
   height:62px;
   z-index:2;
   background:url(../../images/parallax-homepage/grass.png) repeat-x left 10px;
-}
+} */
