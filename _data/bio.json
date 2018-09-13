@@ -6,7 +6,7 @@
     "email": "james.j.lee.20@dartmouth.edu",
     "phone": "808-342-0274",
     "website": "https://jamesjinlee.github.io",
-    "summary": "Senior at the University of Hawaii at Manoa majoring in Computer Science with a minor in Business. Space Grant Fellow courtesy of NASA. Previously interned at IBM and Oceanit.",
+    "summary": "Junior at Dartmouth College Majoring in Computer Science Modified Digital Arts",
     "location": {
       "address": "",
       "postalCode": "",
@@ -63,10 +63,10 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science (Expected Graduation: Spring, 2018)",
+      "institution": "Dartmouth College at Hanover, NH",
+      "area": "Computer Science (Expected Graduation: Spring, 2020)",
       "studyType": "Undergraduate",
-      "startDate": "2014-09-01",
+      "startDate": "2016-09-01",
       "endDate": "Present",
       "gpa": "3.8",
       "courses": [
