@@ -14,10 +14,11 @@
   <div class="cd-container">
     <!-- DONT TOUCH THESE VALUES FOR MOBILE -->
     <div class="blog-mobile-screen all-blogs">
-      <div style="margin-top:80px;" class="ui four column centered stackable grid container">
+      <div style="margin-top:80px;" class="">
         {% assign blog_pages = site.pages | where: "type", "blog" | sort: "date" | reverse %}
         {% for page in blog_pages %}
         {% unless page.draft %}
+        {% include blog-card-1.html page=page %}
         {% endunless %}
         {% endfor %}
       </div>

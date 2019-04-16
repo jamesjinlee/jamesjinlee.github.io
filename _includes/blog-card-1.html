@@ -1,0 +1,19 @@
+<!-- Project theme 2 -->
+
+<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.2/semantic.min.css"/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/semantic.min.js"></script> -->
+<link href="https://fonts.googleapis.com/css?family=Roboto:100,500,700" rel="stylesheet">
+<a style=""
+   href="{% if page.projecturl %}{{ page.projecturl }}{% else %}{{ site.baseurl}}{{ include.page.url }}{% endif %}">
+  <div class="blurring dimmable image">
+    <div class="ui dimmer">
+      <div class="content">
+        <div class="center">
+          <span class="header">{{ include.page.title }}</span>
+      </div>
+    </div>
+  </div>
+  </div>
+  {% endif %}
+</a>
