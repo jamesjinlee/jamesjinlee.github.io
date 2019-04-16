@@ -6,5 +6,5 @@
 <link href="https://fonts.googleapis.com/css?family=Roboto:100,500,700" rel="stylesheet">
 <a style="" 
    href="{% if page.projecturl %}{{ page.projecturl }}{% else %}{{ site.baseurl}}{{ include.page.url }}{% endif %}">
-    <span class="header">{{ include.page.title }}</span>
+    <span class="header">{{ include.page.date | date_to_long_string}} : {{ include.page.title }}</span>
 </a>
