@@ -1,7 +1,7 @@
 ---
 layout: blog
 type: blog
-title: D-Path
-permalink: blog/hey
-date: 2018
+title: Visual Studio C# UI Redesign
+permalink: blog/ui_redesign
+date: 2017
 ---
