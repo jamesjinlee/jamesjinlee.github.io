@@ -22,7 +22,7 @@
   <div class="cd-container">
     <!-- DONT TOUCH THESE VALUES FOR MOBILE -->
     <div class="blog-mobile-screen all-blogs">
-      <div style="margin-top:80px;" class="ui centered items">
+      <div style="margin-top:80px;" class="ui one column centered grid container">
         {% assign blog_pages = site.pages | where: "type", "blog" | sort: "date" | reverse %}
         {% for page in blog_pages %}
         {% unless page.draft %}
