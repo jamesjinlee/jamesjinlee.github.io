@@ -22,11 +22,12 @@
   <div class="cd-container">
     <!-- DONT TOUCH THESE VALUES FOR MOBILE -->
     <div class="blog-mobile-screen all-blogs">
-      <div style="margin-top:80px;" class="ui centered stackable one grid container">
+      <div style="margin-top:80px;" class="ui centered stackable one grid">
         {% assign blog_pages = site.pages | where: "type", "blog" | sort: "date" | reverse %}
         {% for page in blog_pages %}
         {% unless page.draft %}
         {% include blog-card-1.html page=page %}
+        <br>
         {% endunless %}
         {% endfor %}
       </div>
