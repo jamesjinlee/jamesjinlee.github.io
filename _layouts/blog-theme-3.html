@@ -23,13 +23,14 @@
                 <hr />
               </div>
             </div>
-
+        <div class="column">
         {% assign blog_pages = site.pages | where: "type", "blog" | where: "year", "2019" | sort: "date" | reverse %}
         {% for page in blog_pages %}
         {% unless page.draft %}
         {% include blog-card-1.html page=page %}
         {% endunless %}
         {% endfor %}
+      </div>
 
       </div>
     </div>
