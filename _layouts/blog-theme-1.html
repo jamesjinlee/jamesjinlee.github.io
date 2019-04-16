@@ -15,7 +15,7 @@
     <!-- DONT TOUCH THESE VALUES FOR MOBILE -->
     <div style="margin-top: 100px; padding-bottom: 35px;" class="ui container ">
       <div class="blog-mobile-screen all-blogs">
-        <div class="ui stackable centered four cards">
+        <div>
           {% assign blog_pages = site.pages | where: "type", "blog" | sort: "date" | reverse %}
           {% for page in blog_pages %}
           {% unless page.draft %}
