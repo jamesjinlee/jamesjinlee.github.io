@@ -3,6 +3,7 @@ layout: blog
 type: blog
 title: Loop Subdivision
 permalink: blog/loop_subdivision
+year: 2018
 date: 2017-09-09
 ---
 

@@ -22,12 +22,34 @@
   <div class="cd-container">
     <!-- DONT TOUCH THESE VALUES FOR MOBILE -->
     <div class="blog-mobile-screen all-blogs">
-      <div style="margin-top:80px;" class="ui centered stackable one grid">
-        {% assign blog_pages = site.pages | where: "type", "blog" | sort: "date" | reverse %}
+      <div style="margin-top:80px;" class="ui centered one">
+
+          <div style="margin-top: 55px;" class="ui text container">
+              <div style="margin-left:10px;text-align:center">
+                <h1>2019</h1>
+                <hr />
+              </div>
+            </div>
+
+        {% assign blog_pages = site.pages | where: "type", "blog" | where: "year", "2019" | sort: "date" | reverse %}
         {% for page in blog_pages %}
         {% unless page.draft %}
         {% include blog-card-1.html page=page %}
-        <br>
+        {% endunless %}
+        {% endfor %}
+
+
+        <div style="margin-top: 55px;" class="ui text container">
+            <div style="margin-left:10px;text-align:center">
+              <h1>2018</h1>
+              <hr />
+            </div>
+          </div>
+
+        {% assign blog_pages2 = site.pages | where: "type", "blog" | where: "year", "2018" | sort: "date" | reverse %}
+        {% for page in blog_pages2 %}
+        {% unless page.draft %}
+        {% include blog-card-1.html page=page %}
         {% endunless %}
         {% endfor %}
       </div>

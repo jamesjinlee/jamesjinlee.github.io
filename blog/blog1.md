@@ -3,6 +3,7 @@ layout: blog
 type: blog
 title: Visual Studio C# UI Redesign
 permalink: blog/ui_redesign
+year: 2019
 date: 2017-07-09
 ---
 
