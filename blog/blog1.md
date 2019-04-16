@@ -1,5 +1,5 @@
 ---
-layout: blogs
+layout: blog
 type: blog
 title: D-Path
 permalink: blog/hey
