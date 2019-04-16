@@ -761,6 +761,13 @@ i.circular.icon:hover{
   unicode-range: U+0000 -00 FF, U+0131, U+0152 -0153, U+02 C6, U+02 DA, U+02 DC, U+2000 -206 F, U+2074, U+20 AC, U+2212, U+2215
 }
 
+.blog-omg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
 /* ========================================== */
 /* Make any picture same width and height */
 
