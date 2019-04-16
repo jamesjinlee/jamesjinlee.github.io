@@ -18,7 +18,6 @@
         {% assign blog_pages = site.pages | where: "type", "blog" | sort: "date" | reverse %}
         {% for page in blog_pages %}
         {% unless page.draft %}
-        {% include blog-card-3.html page=page %}
         {% endunless %}
         {% endfor %}
       </div>
