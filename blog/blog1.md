@@ -7,7 +7,7 @@ year: 2019
 date: 2019-01-17
 ---
 
-So for my first week at my internship at <a href="http://www.disputesoft.com/">DisputeSoft</a> I've been learning a new design pattern, MVVM, for the code compare application that I'll be working on during my time here.
+So for my first week at my internship at <a href="http://www.disputesoft.com/" target="_blank">DisputeSoft</a> I've been learning a new design pattern, MVVM, for the code compare application that I'll be working on during my time here.
 I've had some experience with the MC (Model View Controller) architecture from my android programming class, but what is this new mysterious MVVM?
 Admittedly, I was a little confused at first, like what is the difference between Controller and View Model? But it's really not hard to understand, especially if you have workin knowledge of the MVC design pattern.
 
