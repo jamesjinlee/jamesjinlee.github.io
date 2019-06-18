@@ -11,7 +11,8 @@ So one of the things I had to do was redesign the whole ui for the code compare 
 
 But, I’ll share with you two very useful things I learned when implementing the front end code in visual studio.
 
-- **STYLING**
+
+1. **STYLING**
 
 On Figma, it just takes a click of a button to change the size, the font, the beveling, and any other property of an item. IT's not that easy to get exactly what you want in XAML.
 
@@ -81,7 +82,8 @@ Style="{StaticResource GreyButton}"
 
 You can also use resource dictionaries, a completely new file to store your objects and your styles which you can refer to multiple of times.
 
-- **RESOURCE DICTIONARIES**
+
+2. **RESOURCE DICTIONARIES**
 
 Resources are objects that you create that are used more than once, so that you can refer to the resource dictionary rather than creating the object every time. Basically, resources promote object reuse throughout your application. It keeps your code more efficient, and makes changes to these objects much easier- just change the resource in the resource dictionary!
 
