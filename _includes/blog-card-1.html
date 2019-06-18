@@ -7,7 +7,7 @@
 <div>
 <a style=""
    href="{% if page.projecturl %}{{ page.projecturl }}{% else %}{{ site.baseurl}}{{ include.page.url }}{% endif %}">
-    <span class="header">{{ include.page.date | date_to_long_string}} : {{ include.page.title }}</span>
+    <span class="header">{{ include.page.title }}</span>
 </a>
-<span class="header">{{ include.page.date | date: "%m/%d/%Y"}} </span>
+<span class="header" style="font-size: 12px">{{ include.page.date | date: "%m/%d/%Y"}} </span>
 </div>
